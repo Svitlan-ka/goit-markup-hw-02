@@ -130,7 +130,9 @@ background: #404bbf;
 
 .advantages {}
 
-.visually-hidden {}
+.visually-hidden title {
+        color: #2e2f42;
+}
 
 .advantages-list {}
 
@@ -158,7 +160,13 @@ background: #404bbf;
 background-color: #F4F4FD;
 }
 
-.team-title {}
+.team-title {
+        color: #2e2f42;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+}
 
 .team-list {}
 
@@ -189,7 +197,13 @@ background-color: #FFFFFF;
 
 .portfolio {}
 
-.portfolio-title {}
+.portfolio-title {
+        color: #2e2f42;
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+}
 
 .portfolio-list {}
 
