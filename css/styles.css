@@ -26,6 +26,11 @@ button {
     overflow: hidden;
 }
 
+.title {
+        color: #2e2f42;
+        text-transform: capitalize;
+}
+
 /**=================HEADER======================*/
 
 .header-logo {
@@ -120,9 +125,7 @@ background: #404bbf;
 
 .advantages {}
 
-.visually-hidden {
-       color: #2e2f42;
-}
+.visually-hidden {}
 
 .advantages-list {}
 
@@ -150,10 +153,7 @@ background: #404bbf;
 background-color: #F4F4FD;
 }
 
-.team-title {
-        text-transform: capitalize;
-        color: #2e2f42;
-}
+.team-title {}
 
 .team-list {}
 
@@ -184,10 +184,7 @@ background-color: #FFFFFF;
 
 .portfolio {}
 
-.portfolio-title {
-        text-transform: capitalize;
-        color: #2e2f42;
-}
+.portfolio-title {}
 
 .portfolio-list {}
 
