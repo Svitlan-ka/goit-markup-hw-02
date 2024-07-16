@@ -129,7 +129,7 @@ background: #404bbf;
 
 .advantages {}
 
-.advantages-title {
+.visually-hidden {
        color: #2e2f42;
 }
 
@@ -161,7 +161,7 @@ background-color: #F4F4FD;
 
 .team-title {
         text-transform: capitalize;
-        color:  #2e2f42;
+        color: #2e2f42;
 }
 
 .team-list {}
