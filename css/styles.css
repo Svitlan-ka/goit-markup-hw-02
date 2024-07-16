@@ -1,7 +1,7 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #2e2f42;
-    background-color: #fff;
+background-color: #fff;
+font-family: 'Roboto', sans-serif;
+color: #434455;
 }
 
 a { 
@@ -28,6 +28,15 @@ button {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+
+.title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 111%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
 }
 
 /**=================HEADER======================*/
@@ -107,22 +116,12 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 white-space: nowrap;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #404bbf;
 }
 
@@ -158,13 +157,7 @@ background: #404bbf;
 /**===================TEAM=====================*/
 .team {}
 
-.team-title {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 111%;
-        letter-spacing: 0.02em;
-        text-align: center;
-}
+.team-title {}
 
 .team-list {}
 
@@ -193,13 +186,7 @@ background: #404bbf;
 
 .portfolio {}
 
-.portfolio-title {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 111%;
-        letter-spacing: 0.02em;
-        text-align: center;
-}
+.portfolio-title {}
 
 .portfolio-list {}
 
